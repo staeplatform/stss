@@ -12,3 +12,4 @@ This document assumes the reader has read the whitepaper and has a basic underst
   
 <h2>Savings Token</h2>
 
+In addition to the ERC20 interfaces, Stable coins in STAE also comes with a built-in mechanism to accrue interest over time and a delegated transfer so that the system may pay for the gas fees on behalf of the user. 
